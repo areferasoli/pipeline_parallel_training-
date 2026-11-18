@@ -2,7 +2,7 @@
 
 Course project for *Statistics and Architectures for Big Data Processing – Module 2* (University of Bologna, Lecture 20: Parallelism and Pipeline).
 
-**Group 9:** Mina Shahbazi, Arefe Rasouli, Arash Rezaei
+**Group 9:** Arefe Rasouli, Mina Shahbazi, Arash Rezaei، Kosar kaviani
 
 ## Problem
 
